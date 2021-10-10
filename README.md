@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Death Maze - The Fearful Cut**
 
-- 🌱 I’m currently learning: **C/C++**
+- 🌱 I’m currently learning: **C++**
 
 - 📫 How to reach me: **paalf1337@gmail.com**
 
