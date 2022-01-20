@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! :robot:</h1>
+<h1 align="center">Hello, world!</h1>
 
 ## 🙋‍♂️ About Me
 
@@ -7,7 +7,7 @@
 - 🗣 I speak portuguese (natively) and english (fluently)
 
 - ❤️ I'm interested in cybersecurity and software engineering
-
+          
 ## 💻 Languages and Tools
 
 <p align="left"> 
