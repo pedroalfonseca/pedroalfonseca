@@ -6,7 +6,7 @@
 
 - 🗣 I speak portuguese (natively) and english (fluently)
 
-- ❤️ I'm interested in cybersecurity and computer networks
+- ❤️ I'm interested in cybersecurity and software engineering
           
 ## 💻 Languages and Tools
 
