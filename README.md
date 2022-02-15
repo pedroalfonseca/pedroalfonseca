@@ -17,7 +17,7 @@
           <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
 <table align="center" style="margin: 0px auto;">
           <tr>
@@ -30,6 +30,6 @@
 
 <p align="left">
                     <a href="mailto:paalf1337@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"    target="_blank"> </a>
-                    <a href="https://www.instagram.com/pedroalfonseca_/" target="_blank"> <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+                    <a href="https://discord.com/users/452865500272263198" target="_blank"> <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
                     <a href="https://www.instagram.com/pedroalfonseca_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 </p>
