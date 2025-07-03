@@ -4,6 +4,6 @@
 
 - 🔬 Participated in research on data visualization during undergrad.
 
-- 💼 Previously worked as a data engineer; currently work as a desktop software developer.
+- 💼 Previously worked as a data engineer; currently working as a desktop software developer.
 
 - 👍 Interests: computer graphics, systems programming, desktop development.
