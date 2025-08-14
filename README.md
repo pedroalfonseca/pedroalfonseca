@@ -6,4 +6,4 @@
 
 - 💼 Previously worked as a data engineer; currently working as a desktop software developer.
 
-- 👍 Interests: computer graphics, systems programming, desktop development.
+- 👍 Interests: computer graphics, game development, desktop development.
